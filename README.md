@@ -1,7 +1,5 @@
 # To-Do List Application
 
-![Screenshot](screenshots/app-screenshot.png)
-
 A modern, responsive to-do list with project organization and dark mode support.
 
 ## Features
